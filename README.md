@@ -27,11 +27,11 @@ As cerimônias são eventos definidos pelo Scrum; Divididos em: Sprint Planning,
 A organização dos processos é feita de forma visual e fleixível; as etapas de organização sã três: to do (para fazer), doing (fazendo) e done (feito), promovendo o trabalho equipe e comprimento de prazos, normalmente utilizados em ambientes de desenvolvimento; 
 
 ## 🚀 Extreme Programming (XP)  
-(Quais são os princípios do XP?)
+Uma metodologia ágil que valoriza a cooperação e a eficácia no processo de desenvolvimento de software. Seus pilares essenciais incluem: **comunicação**: assegurando que a equipe esteja sempre alinhada; **simplicidade**: centrando-se em soluções práticas e diretas; **feedback**: possibilitando ajustes contínuos; **coragem**: para fazer as decisões necessárias e abraçar transformações; e **respeito**: cultivando um espaço de trabalho saudável e produtivo.
 
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
+GitHub e GitLab são plataformas que promovem a colaboração entre equipes no desenvolvimento de software. Elas permitem armazenar e estruturar códigos, monitorar alterações ao longo do tempo e facilitar a cooperação. Ademais, essas ferramentas melhoram a comunicação entre os desenvolvedores, possibilitando revisões de código e automação de tarefas, o que torna o processo mais dinâmico e seguro.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+O Jira e o Trello são ferramentas que auxiliam na organização e no monitoramento de tarefas de maneira visual. O Trello se destaca pela sua simplicidade, empregando quadros e listas para gerenciar as atividades, enquanto o Jira se apresenta como uma solução mais avançada, focada em equipes de desenvolvimento, com recursos adicionais para a gestão ágil de projetos e automação de processos. Ambas as plataformas promovem a colaboração e o planejamento eficaz das tarefas.
